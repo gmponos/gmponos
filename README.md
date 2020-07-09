@@ -24,6 +24,7 @@ You can find me at:
 - [Twitter](https://twitter.com/gmponos)
 - [Stackoverflow](https://stackoverflow.com/users/4158811/gmponos)
 
+Check my projects :point_down: and if you like them give them a :star:
 <!--
 Here are some ideas to get you started:
 

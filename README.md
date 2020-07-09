@@ -2,13 +2,13 @@
 ![codecoverage](https://img.shields.io/badge/coverage-20%25-orange?style=flat-square)
 ![WTFPL](https://img.shields.io/badge/license-WTFPL-green?style=flat-square)
 
-**Hello there :wave:**
+### Hello there :wave:
 
 My name is George Mponos. I am currently working at ![xm.com](https://cloud.xm-cdn.com/assets/img/common/favicon.ico) as Senior PHP Developer creating PHP packages and webapps using symfony.
 
 Originally I am from Greece (Athens/Aigaleo) but I moved into Cyprus (Limassol) in 2015.
 
-**Tabula rasa**
+### Tabula rasa
 
 In short words no one is born knowing everything. Something that is known for you is unknown for many others. You learn a new thing every day.
 

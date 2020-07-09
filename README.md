@@ -2,21 +2,19 @@
 
 My name is George Mponos (Bonos).
 
-I am currently working at ![xm.com](https://cloud.xm-cdn.com/assets/img/common/favicon.ico) as Senior PHP Developer.
+I am currently working at ![xm.com](https://cloud.xm-cdn.com/assets/img/common/favicon.ico) as Senior PHP Developer building various PHP packages and webapps using symfony.
 
-I develop webapps using symfony.
-
-Originally I am from Greece but I moved into Cyprus in 2015.
+Originally I am from Greece (Athens/Aigaleo) but I moved into Cyprus (Limassol) in 2015.
 
 **Tabula rasa**
 
-This is a latin phrase that  means "clean slate" or "clean whiteboard"
+This is a latin phrase which means "clean slate" or "clean whiteboard"
 
 In short words noone is born knowning something. We all have seen reactions towards others 
 
-"Wow.. you don't know what facebook is?"
+> Wow.. you don't know what facebook is?
 
-Something that is know for you is unknown for others. You learn a new thing everyday.
+Something that is known for you is unknown for many others. You learn a new thing everyday.
 
 **Contact**
 

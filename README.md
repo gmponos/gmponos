@@ -1,8 +1,19 @@
-### Hi there 👋
+**Hi there 👋**,
+
+My name is George Mponos (Bonos).
+
+I am currently working at ![xm.com](https://cloud.xm-cdn.com/assets/img/common/favicon.ico) as Senior PHP Developer.
+
+I develop webapps using symfony.
+
+Originally I am from Greece but I moved into Cyprus in 2015.
+
+You can find me at:
+
+- [Linkedin](https://www.linkedin.com/in/georgemponos/)
+- [Twitter](https://twitter.com/gmponos)
 
 <!--
-**gmponos/gmponos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

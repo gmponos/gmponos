@@ -8,9 +8,7 @@ Originally I am from Greece (Athens/Aigaleo) but I moved into Cyprus (Limassol) 
 
 **Tabula rasa**
 
-This is a latin phrase which means "clean slate" or "clean whiteboard"
-
-In short words noone is born knowning something. We all have seen reactions towards others 
+This is a latin phrase which means "clean slate". In short words noone is born knowning something. We all have seen reactions towards others 
 
 > Wow.. you don't know what facebook is? :scream:
 
@@ -23,6 +21,7 @@ You can find me at:
 - [Linkedin](https://www.linkedin.com/in/georgemponos/)
 - [Twitter](https://twitter.com/gmponos)
 - [Stackoverflow](https://stackoverflow.com/users/4158811/gmponos)
+- [Symfony slack@gmponos][https://symfony.com/slack]
 
 Check my projects :point_down: and if you like them give them a :star:
 <!--

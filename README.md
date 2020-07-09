@@ -21,4 +21,4 @@ In short words no one is born knowing everything. Something that is known for yo
 
 ### Contributing
 
-Check :point_down: and if you like them give them a :star:
+Check my project :point_down: and if you like them give them a :star: or submit a PR.

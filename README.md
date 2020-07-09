@@ -12,7 +12,7 @@ This is a latin phrase which means "clean slate" or "clean whiteboard"
 
 In short words noone is born knowning something. We all have seen reactions towards others 
 
-> Wow.. you don't know what facebook is?
+> Wow.. you don't know what facebook is? :scream:
 
 Something that is known for you is unknown for many others. You learn a new thing everyday.
 

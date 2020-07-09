@@ -20,6 +20,7 @@ Something that is known for you is unknown for many others. You learn a new thin
 - [Symfony slack](https://symfony.com/slack)
 
 **Projects**
+
 Check :point_down: and if you like them give them a :star:
 
 <!--

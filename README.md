@@ -1,12 +1,10 @@
-**Hi there 👋**,
+**👋 Hi, My name is George Mponos**,
 
-My name is George Mponos (Bonos).
-
-I am currently working at ![xm.com](https://cloud.xm-cdn.com/assets/img/common/favicon.ico) as Senior PHP Developer building various PHP packages and webapps using symfony.
+I am currently working at ![xm.com](https://cloud.xm-cdn.com/assets/img/common/favicon.ico) as Senior PHP Developer creating PHP packages and webapps using symfony.
 
 Originally I am from Greece (Athens/Aigaleo) but I moved into Cyprus (Limassol) in 2015.
 
-**Tabula rasa**
+### Tabula rasa
 
 This is a latin phrase which means "clean slate". In short words noone is born knowning something. We all have seen reactions towards others 
 
@@ -14,15 +12,14 @@ This is a latin phrase which means "clean slate". In short words noone is born k
 
 Something that is known for you is unknown for many others. You learn a new thing everyday.
 
-**Contact**
-
-You can find me at:
+### More ways to reach me
 
 - [Linkedin](https://www.linkedin.com/in/georgemponos/)
 - [Twitter](https://twitter.com/gmponos)
 - [Stackoverflow](https://stackoverflow.com/users/4158811/gmponos)
 - [Symfony slack](https://symfony.com/slack)
 
+### Projects
 Check my projects :point_down: and if you like them give them a :star:
 <!--
 Here are some ideas to get you started:

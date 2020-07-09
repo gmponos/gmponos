@@ -21,7 +21,7 @@ You can find me at:
 - [Linkedin](https://www.linkedin.com/in/georgemponos/)
 - [Twitter](https://twitter.com/gmponos)
 - [Stackoverflow](https://stackoverflow.com/users/4158811/gmponos)
-- [Symfony slack@gmponos][https://symfony.com/slack]
+- [Symfony slack@gmponos](https://symfony.com/slack)
 
 Check my projects :point_down: and if you like them give them a :star:
 <!--
